@@ -1,0 +1,16 @@
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.exe
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.deps.json
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.runtimeconfig.json
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.runtimeconfig.dev.json
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.dll
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\bin\Debug\netcoreapp3.1\22735233_Practical5.pdb
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.csproj.AssemblyReference.cache
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\_22735233_Practical5.Form1.resources
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.csproj.GenerateResource.cache
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.AssemblyInfoInputs.cache
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.AssemblyInfo.cs
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.csproj.CoreCompileInputs.cache
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.dll
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.pdb
+C:\Users\Pontsho Koopedi\source\repos\22735233_Practical5\22735233_Practical5\obj\Debug\netcoreapp3.1\22735233_Practical5.genruntimeconfig.cache
